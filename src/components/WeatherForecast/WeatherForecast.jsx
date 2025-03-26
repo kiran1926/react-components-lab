@@ -9,7 +9,6 @@ const WeatherForecast = (props) => {
             <p className="conditions"> Conditions: {conditions} </p>
             <p>Time: {time}</p>
         </div>
-
     );
 };
 
